@@ -1,0 +1,8 @@
+yfinance
+vectorbt
+numba==0.61.2
+llvmlite==0.44.0
+alpaca-trade-api
+pandas
+numpy
+python-dotenv
